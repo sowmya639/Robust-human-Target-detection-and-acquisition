@@ -10,3 +10,4 @@ The implementation includes a user-friendly interface to visualize the real-time
 
 The results of the real-time face detection system on the Raspberry Pi demonstrate its feasibility and effectiveness in a resource-constrained environment. The project's contributions include providing a foundation for integrating face detection capabilities into Raspberry Pi-based projects, offering a balance between accuracy and computational efficiency. This work opens avenues for further exploration and expansion of computer vision applications on embedded systems
 
+![image](https://github.com/user-attachments/assets/744a8033-1067-49d4-af08-81cf03cc29e5)
